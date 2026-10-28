@@ -7,11 +7,11 @@ shareBtn.onclick = () => {
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://www.facebook.com/share/g/1PRhXvvvgF/");
+    window.open("https://s.shopee.co.id/6fiPeImLqx");
 }
 
 function openFacebookPage() {
-    window.open("https://www.facebook.com/share/g/1PRhXvvvgF/");
+    window.open("https://s.shopee.co.id/1gJjh6hOUO");
 }
 const video = document.getElementById("video");
 const overlay = document.getElementById("videoOverlay");
